@@ -1,0 +1,6 @@
+{
+  "name": "IPL Match Winner & Score Prediction System",
+  "description": "A clean, full-stack IPL match winner and score prediction system featuring ML visualizations and an analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

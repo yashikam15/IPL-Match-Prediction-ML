@@ -1,0 +1,16 @@
+player_id,player_name,team,role,batting_sr,bowling_eco,captain_win_percent
+1,Rohit Sharma,MI,Batsman / Captain,130.4,-,57.1
+2,MS Dhoni,CSK,Wicketkeeper / Captain,135.2,-,58.8
+3,Virat Kohli,RCB,Batsman / Captain,129.8,-,47.5
+4,Shreyas Iyer,KKR,Batsman / Captain,125.4,-,52.3
+5,Rishabh Pant,DC,Wicketkeeper / Captain,147.9,-,51.0
+6,Shikhar Dhawan,PBKS,Batsman / Captain,126.8,-,44.0
+7,Sanju Samson,RR,Wicketkeeper / Captain,137.5,-,48.5
+8,Pat Cummins,SRH,Bowler / Captain,152.3,8.2,56.0
+9,Hardik Pandya,MI,All-rounder,145.8,8.45,55.0
+10,Jasprit Bumrah,MI,Bowler,142.0,6.4,null
+11,Ravindra Jadeja,CSK,All-rounder,128.5,7.6,null
+12,Glenn Maxwell,RCB,All-rounder,153.8,8.1,null
+13,Andre Russell,KKR,All-rounder,174.0,9.1,null
+14,Rashid Khan,GT,Bowler,140.0,6.6,null
+15,KL Rahul,LSG,Batsman,134.2,null,48.0
